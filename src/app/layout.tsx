@@ -14,24 +14,23 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+  title: "Green Earth Enterprises — Estrategia RSC 2026-2035",
+  description: "Plataforma interactiva de Responsabilidad Social Corporativa (RSC/ASG) de Green Earth Enterprises. Explora los pilares de Personas, Empresas y Planeta con visualización 3D.",
+  keywords: ["RSC", "ESG", "ASG", "sostenibilidad", "Green Earth", "responsabilidad social", "Net-Zero", "GRI", "ISO 26000"],
+  authors: [{ name: "Green Earth Enterprises" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌿</text></svg>",
   },
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    title: "Green Earth Enterprises — Estrategia RSC 2026-2035",
+    description: "Plataforma interactiva ASG con globo 3D, hoja de ruta en 9 pasos y simulador de impacto.",
+    siteName: "Green Earth RSC",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
+    title: "Green Earth Enterprises — Estrategia RSC 2026-2035",
+    description: "Plataforma interactiva ASG con globo 3D, hoja de ruta en 9 pasos y simulador de impacto.",
   },
 };
 
